@@ -1,7 +1,3 @@
-Code examples for the online course [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization)
-
-Author : Michael Pogrebinsky
-
 ### To open the project using Intellij
 
 1. File -> New -> "Project from Existing Sources" or "Import Project".
