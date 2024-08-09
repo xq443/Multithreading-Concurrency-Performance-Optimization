@@ -1,14 +1,7 @@
-/*
- * Copyright (c) 2019-2023. Michael Pogrebinsky - Top Developer Academy
- * https://topdeveloperacademy.com
- * All rights reserved
- */
-
 import java.util.Random;
 
 /**
  * Atomic Operations, Volatile & Metrics practical example
- * https://www.udemy.com/java-multithreading-concurrency-performance-optimization
  */
 public class Main {
     public static void main(String[] args) {
